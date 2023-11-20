@@ -1,0 +1,11 @@
+,MAE,Loss,config/optimizers,config/rates
+0,0.3286665081977844,0.3338967263698578,<class 'keras.src.optimizers.adam.Adam'>,0.01
+60,0.3297306299209595,0.3354240357875824,<class 'keras.src.optimizers.adam.Adam'>,0.01
+38,0.3315680921077728,0.3408072590827942,"functools.partial(<class 'keras.src.optimizers.sgd.SGD'>, momentum=0.9)",0.030000000000000006
+3,0.33188217878341675,0.34276318550109863,<class 'keras.src.optimizers.adam.Adam'>,0.020000000000000004
+71,0.3322570025920868,0.350444495677948,"functools.partial(<class 'keras.src.optimizers.sgd.SGD'>, momentum=0.9)",0.04000000000000001
+5,0.333018958568573,0.3403235673904419,"functools.partial(<class 'keras.src.optimizers.sgd.SGD'>, momentum=0.9)",0.020000000000000004
+88,0.33322837948799133,0.3419307768344879,<class 'keras.src.optimizers.sgd.SGD'>,0.1
+65,0.33324167132377625,0.33373305201530457,"functools.partial(<class 'keras.src.optimizers.sgd.SGD'>, momentum=0.9)",0.020000000000000004
+62,0.3341567814350128,0.33407071232795715,"functools.partial(<class 'keras.src.optimizers.sgd.SGD'>, momentum=0.9)",0.01
+35,0.3343918025493622,0.33877381682395935,"functools.partial(<class 'keras.src.optimizers.sgd.SGD'>, momentum=0.9)",0.020000000000000004
