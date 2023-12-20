@@ -44,7 +44,8 @@ RUN pip install "ray[all]" \
     jupyterlab \
     ipywidgets \
     ydata-profiling \
-    pandoc
-
+    pandoc \
+    kaleido \
+    nbconvert[webpdf]
 
 USER jovyan
